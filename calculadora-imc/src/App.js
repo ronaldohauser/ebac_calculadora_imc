@@ -106,7 +106,7 @@ const App = () => {
               <td>18.5 - 24.9</td>
             </tr>
             <tr style={{ backgroundColor: '#ffb74d' }}>
-              <td>Magreza</td>
+              <td>Abaixo do peso</td>
               <td>Menos de 18.5</td>
             </tr>
           </tbody>
